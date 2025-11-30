@@ -1,6 +1,6 @@
 # C++ Command-Line Ticketing System
 
-# Overview
+## Overview
 
 This is a command-line ticketing system implemented in C++. It allows users to:
 
